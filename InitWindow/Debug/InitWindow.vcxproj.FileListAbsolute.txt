@@ -1,4 +1,0 @@
-C:\Users\csx\Documents\direct\LearnDx12\InitWindow\Debug\InitWindow.exe
-C:\Users\csx\Documents\direct\LearnDx12\InitWindow\Debug\InitWindow.pdb
-C:\Users\csx\Desktop\LearnDx12\InitWindow\Debug\InitWindow.exe
-C:\Users\csx\Desktop\LearnDx12\InitWindow\Debug\InitWindow.pdb
